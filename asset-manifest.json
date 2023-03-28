@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/movie-app/static/css/main.d58aeb5a.css",
-    "main.js": "/movie-app/static/js/main.a2268f97.js",
+    "main.css": "/movie-app/static/css/main.16fd5755.css",
+    "main.js": "/movie-app/static/js/main.37b22c89.js",
     "static/media/fallback_backdrop.jpg": "/movie-app/static/media/fallback_backdrop.45a3625ad196e08d1e4d.jpg",
     "static/media/fallback_poster.jpg": "/movie-app/static/media/fallback_poster.99df637c489193a87cea.jpg",
     "index.html": "/movie-app/index.html",
-    "main.d58aeb5a.css.map": "/movie-app/static/css/main.d58aeb5a.css.map",
-    "main.a2268f97.js.map": "/movie-app/static/js/main.a2268f97.js.map"
+    "main.16fd5755.css.map": "/movie-app/static/css/main.16fd5755.css.map",
+    "main.37b22c89.js.map": "/movie-app/static/js/main.37b22c89.js.map"
   },
   "entrypoints": [
-    "static/css/main.d58aeb5a.css",
-    "static/js/main.a2268f97.js"
+    "static/css/main.16fd5755.css",
+    "static/js/main.37b22c89.js"
   ]
 }
